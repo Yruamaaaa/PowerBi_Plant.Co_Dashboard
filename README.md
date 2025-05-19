@@ -17,6 +17,13 @@ Plant Fact Table: Contains transactional sales data including Product_id, Sales_
 
 Account Table: Provides account-level details such as country_code, Account_name, latitude, longitude, and full address details. This was used to map performance geographically and to enrich the data model with regional insights.
 
+ 
+
 Power BI's modeling and DAX capabilities were used to calculate YTD and PYTD measures, GP% (Gross Profit = Sales – COGS), and to compare sales performance across dimensions like country, time, and product category. Filters and slicers allow dynamic exploration of the data.
 
 This dashboard helps stakeholders quickly identify underperforming markets, analyze the impact of time and product type on sales, and segment customers by profitability to drive strategic business decisions.
+
+Visualisation :
+
+![image](https://github.com/user-attachments/assets/21c091d3-b5b1-4160-b675-b99acaa391c9)
+
